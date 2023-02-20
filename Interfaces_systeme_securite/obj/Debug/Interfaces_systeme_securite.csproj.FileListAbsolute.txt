@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\poc mini project\Interfaces_systeme_securite\bin\Debug\Interfaces_systeme_securite.dll
+C:\Users\LENOVO\source\repos\poc mini project\Interfaces_systeme_securite\bin\Debug\Interfaces_systeme_securite.pdb
+C:\Users\LENOVO\source\repos\poc mini project\Interfaces_systeme_securite\obj\Debug\Interfaces_systeme_securite.dll
+C:\Users\LENOVO\source\repos\poc mini project\Interfaces_systeme_securite\obj\Debug\Interfaces_systeme_securite.pdb
+C:\Users\LENOVO\source\repos\poc mini project\Interfaces_systeme_securite\obj\Debug\Interfaces_systeme_securite.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\poc mini project\Interfaces_systeme_securite\obj\Debug\Interfaces_systeme_securite.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\poc mini project\Interfaces_systeme_securite\bin\Debug\HtmlAgilityPack.dll
+C:\Users\LENOVO\source\repos\poc mini project\Interfaces_systeme_securite\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\LENOVO\source\repos\poc mini project\Interfaces_systeme_securite\bin\Debug\HtmlAgilityPack.xml
+C:\Users\LENOVO\source\repos\poc mini project\Interfaces_systeme_securite\obj\Debug\Interfaces_systeme_securite.csproj.CopyComplete

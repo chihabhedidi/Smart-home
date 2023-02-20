@@ -1,0 +1,6 @@
+C:\Users\LENOVO\source\repos\poc mini project\interface_systeme_temp_humi\bin\Debug\interface_systeme_temp_humi.dll
+C:\Users\LENOVO\source\repos\poc mini project\interface_systeme_temp_humi\bin\Debug\interface_systeme_temp_humi.pdb
+C:\Users\LENOVO\source\repos\poc mini project\interface_systeme_temp_humi\obj\Debug\interface_systeme_temp_humi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\poc mini project\interface_systeme_temp_humi\obj\Debug\interface_systeme_temp_humi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\poc mini project\interface_systeme_temp_humi\obj\Debug\interface_systeme_temp_humi.dll
+C:\Users\LENOVO\source\repos\poc mini project\interface_systeme_temp_humi\obj\Debug\interface_systeme_temp_humi.pdb
